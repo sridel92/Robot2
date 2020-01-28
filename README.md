@@ -15,3 +15,5 @@ http://sabaharduino.blogspot.com/2016/09/arduino-pid-controller.html
 
 1 Arduino YUN combine the datas and provide video
 
+<video src="video.mp4" width="320" height="200" controls preload></video>
+
